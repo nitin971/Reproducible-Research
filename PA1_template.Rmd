@@ -2,7 +2,9 @@
 Reproducible Research: Peer Assessment 1
 
 library(ggplot2)
+
 library(scales)
+
 library(Hmisc)
 
 ***********************************************************************************
